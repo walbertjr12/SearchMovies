@@ -1,0 +1,5 @@
+Instalar enrutadores
+npm install react-router-dom
+
+Instalar componentes para publicar con Surge
+npm install -g surge
